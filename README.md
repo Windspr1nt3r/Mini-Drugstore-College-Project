@@ -1,0 +1,2 @@
+# Mini-Drugstore-College-Project
+A simple yet, 'almost' fully functional MiniDrugstore, where you select from an item and there is also a security login feature. This is my first JAVA program, and yet still playing we the graphical workarounds. You can check the source code itself, I have a simple documentary, topped with side by side comments, and you will see how Java Programming is so much fun.
